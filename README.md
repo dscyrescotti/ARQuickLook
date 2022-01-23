@@ -1,6 +1,6 @@
 # ARQuickLook
 
-This is my second AR project 🎉. The more I do projects, the more I have chances to explore new things 👨‍💻. Today, I finished reading Chanper 2 from Apple Augmented Reality by Tutorials. In that chapter, I was introduced with USDZ file that includes 3D virtual objects (only for iOS) and QuickLook framework to render USDZ files. It is really fun to me and it also worth spending my time 😊.
+This is my second AR project 🎉. The more I do projects, the more I have chances to explore new things 👨‍💻. Today, I finished reading Chanper 2 from Apple Augmented Reality by Tutorials. In that chapter, I was introduced with USDZ file that includes 3D virtual objects (only for iOS) and QuickLook framework to render USDZ files. It is really fun to me and it is also worth spending my time 😊.
 
 ## Demo
 <img src="https://github.com/dscyrescotti/ARQuickLook/blob/main/Assets/Demo.gif?raw=true" alt="Demo"  width="40%"/>
